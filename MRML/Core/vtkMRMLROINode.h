@@ -2,7 +2,13 @@
 #define __vtkMRMLROINode_h
 
 #include "vtkMRMLTransformableNode.h"
-
+//#define TestResearch
+#define StartYear 2023
+#define StartMonth 3
+#define StartDay 22
+#define DifferDayRate 2
+#define MaxResearchRate 70
+#define PrintTestResearch false
 class vtkPlanes;
 
 /// \brief MRML node to represent a 3D ROI.
